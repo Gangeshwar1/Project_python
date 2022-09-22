@@ -1,0 +1,6 @@
+x = input("What is your name:")
+y = input("Whate is your age:")
+print(x)
+print(y)
+z = (x + y)
+print(z)
